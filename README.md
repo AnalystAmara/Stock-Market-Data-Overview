@@ -5,12 +5,19 @@ This report provides an analysis of a stock market dataset containing historical
 
 ### Data Fields
 The dataset consists of the following columns:
+
 •	**Date**: The trading date (in MM/DD/YYYY format).
+
 •	**Open**: The opening price of the stock on the given date.
+
 •	**High**: The highest price the stock reached on that date.
+
 •	**Low**: The lowest price the stock reached on that date.
+
 •	**Close**: The closing price of the stock.
+
 •	**Volume**: The number of shares traded.
+
 •	**Name**: The stock's ticker symbol.
 
 ### Data Cleaning Steps
